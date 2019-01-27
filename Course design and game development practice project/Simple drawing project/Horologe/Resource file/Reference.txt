@@ -1,0 +1,4 @@
+Error : "const char*" 类型的实参与 "LPCWSTR" 类型的形参不兼容.
+Reference : https://blog.csdn.net/harrywater123/article/details/51418888?from=timeline
+
+
